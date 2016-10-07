@@ -75,8 +75,8 @@ US_states =
   end
   end
   
-   
-  2. require 'prime'
+
+2. require 'prime'
 num = gets.chomp
 n = 1
 Prime.each(num.to_i) do |prime|
