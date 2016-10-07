@@ -83,3 +83,4 @@ Prime.each(num.to_i) do |prime|
     print "p#{n} -> #{prime}, "
     n += 1
 end
+
